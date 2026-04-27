@@ -6,6 +6,6 @@ public class Greet {
 
         String name = obj.nextLine();
 
-        System.out.println("Hello, " + name);
+        System.out.println("Hello, " + name + "!");
     }
 }
