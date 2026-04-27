@@ -11,7 +11,7 @@ public class Sum_1_to_N {
            sum+=i;
         }
 
-         System.out.print( "Sum: " + sum);
+        System.out.print( "Sum: " + sum);
     }
 }
 
