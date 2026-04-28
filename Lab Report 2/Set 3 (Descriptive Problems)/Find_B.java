@@ -12,8 +12,5 @@ public class Find_B {
             System.out.println(B);
         } else 
             System.out.println("Not Exist");
-        
-
-
     }
 }
