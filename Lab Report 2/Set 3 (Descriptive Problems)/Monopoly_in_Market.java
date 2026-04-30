@@ -10,8 +10,8 @@ public class Monopoly_in_Market {
         int S = obj.nextInt();
 
         if((P > Q + R + S) || (Q > P + R + S) || (R > P + Q + S) || (S > P + Q + R)){
-            System.out.println("There is a Monopoly in Market");
+            System.out.println("There is a Monopoly in the Market");
         } else
-            System.out.println("There is no Monopoly In Market");
+            System.out.println("There is no Monopoly in the Market");
     }
 }
