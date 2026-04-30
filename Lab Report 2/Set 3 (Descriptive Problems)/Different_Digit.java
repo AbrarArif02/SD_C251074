@@ -10,6 +10,7 @@ public class Different_Digit {
 
         if(a==b) System.out.println("Different One is: " + c);
         else if(b==c) System.out.println("Different One is: " + a);
-        else System.out.println("Different One is: " + b);
+        else if(a==c) System.out.println("Different One is: " + b); 
+        else System.out.println("All Numbers are Different");
     }
 }
