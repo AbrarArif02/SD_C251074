@@ -7,12 +7,12 @@ public class Candy {
         int N = obj.nextInt();
         int X = obj.nextInt();
 
-        double min = N - X;
+        int min = N - X;
 
         if(min<=0)
             System.out.println(0);
         else {
-            System.out.println("Number of Packets: " + Math.ceil(min/4));
+            System.out.println("Number of Packets: " + (min+3)/4);
         }
     }
 }
