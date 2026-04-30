@@ -3,7 +3,7 @@ public class Java_Comments {
 
         /* 
         The code below will print the words 
-        My name is Abrarto the screen.
+        My name is Abrar to the screen.
         */
 
         System.out.println("My name is Abrar");  // This is a Single Line Comment
