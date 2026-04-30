@@ -3,10 +3,10 @@ public class Java_Type_Casting {
         
         double cgpa = 3.56;
 
-        System.out.println("Before Type Cast:" + cgpa);
+        System.out.println("Before Type Cast: " + cgpa);
 
         int a = (int)cgpa;
 
-        System.out.println("After Type Cast:" + a);
+        System.out.println("After Type Cast: " + a);
     }
 }
