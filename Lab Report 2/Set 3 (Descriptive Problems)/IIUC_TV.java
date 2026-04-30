@@ -7,7 +7,7 @@ public class IIUC_TV {
         int N = obj.nextInt();
         int X = obj.nextInt();
 
-        int subscript = N/6;
+        int subscript = (N+5)/6;
         
         int Total = subscript * X;
 
