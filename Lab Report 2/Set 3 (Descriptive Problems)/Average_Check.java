@@ -11,9 +11,9 @@ public class Average_Check {
         double avg = (double) (A+B)/2;
 
         if(avg>C){
-            System.out.println("Avg of A and B is Greater");
+            System.out.println("Avg of A and B is Greater than C");
         } else 
-            System.out.println("Avg of A and B is not Greater");
+            System.out.println("Avg of A and B is not Greater than C");
 
     }
 }
